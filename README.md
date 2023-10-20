@@ -15,7 +15,7 @@ You're one-stop for recipes, AshuRecipeApp is the best app for any type of cooki
 
 ### View the app (Hosted on Netlify):✔👇
 
-https://food-verse-masud.netlify.app
+https://ashurecipe-app.netlify.app/
 
 ### Tools:👇
 
